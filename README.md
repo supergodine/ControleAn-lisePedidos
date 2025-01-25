@@ -1,4 +1,8 @@
-Melhoria de Controle e Análise de Pedidos
+                                                    Melhoria de Controle e Análise de Pedidos
+
+
+
+
 Este projeto foi desenvolvido como uma solução de melhoria no controle e análise de pedidos para uma empresa parceira da DNC, no segmento de construção e imobiliário. Utilizando Excel com VBA e Power BI, foi possível automatizar processos, organizar dados e criar visualizações que facilitam a gestão de pedidos e a tomada de decisões estratégicas.
 
 📋 Objetivo
